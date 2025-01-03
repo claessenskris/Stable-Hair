@@ -1,4 +1,4 @@
-git clone https://github.com/Xiaojiu-z/Stable-Hair.git
+git clone https://github.com/claessenskris/Stable-Hair
 mkdir models 
 cd models
 mkdir stage1
@@ -16,5 +16,3 @@ gdown https://drive.google.com/uc?id=1voeq4Uw9RBv-c4vcfc8GR3MI8Qs0XNNa
 
 pip install omegaconf
 pip install einops
-
-
